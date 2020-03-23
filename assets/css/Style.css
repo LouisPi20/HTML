@@ -1,0 +1,44 @@
+.formulaire{
+    text-align: left;
+    margin-left: 20%;
+    width: 60%;
+}
+
+.head{
+text-align: center;
+}
+
+.Image{
+    width:250px;
+    clip-path:circle(40%);
+    margin-left:37%;
+}
+
+
+.bloc{
+    margin: auto;
+    background-color:#DFCCB6 ;
+    width: 60%;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.champs{
+    width: 100%;
+    border-radius: 4px;
+    padding-bottom: 5px;
+}
+
+.bouton{
+    padding:6px 0 6px 0;
+	font:bold 13px Arial;
+	background: green;
+	color: white ;
+	border-radius:2px;
+	width:100px;
+    border:1px solid #ccc;
+    border-radius: 6px;
+    box-shadow:5px 5px 8px rgb(63, 63, 63);
+    margin: auto;
+    display: block;
+}
